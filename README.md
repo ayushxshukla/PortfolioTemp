@@ -5,5 +5,5 @@ This was a website built to showcase my technical skills, web design skills.
 
 HTML5 <br/> CSS3<br/>JavaScript(ES6)<br/>Git<br/>GitHub<br/>React<br/>TailWind
 
-#Hosted at
+# Hosted at
 https://portfolio-temp-tawny.vercel.app/
