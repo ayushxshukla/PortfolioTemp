@@ -213,7 +213,7 @@ export default function Home() {
         <section>
           <div>
             <p className=" text-md py-5 leading-8  dark:text-gray-200 text-gray-800 md:text-xl grid place-items-center">
-              Copyright © 2022 - Ayush Shukla
+              Copyright © 2024 - Ayush Shukla
             </p>
           </div>
         </section>
