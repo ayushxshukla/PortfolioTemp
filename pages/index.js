@@ -149,7 +149,7 @@ export default function Home() {
               and consumer use.
             </p>
             <p className="text-md py-2 dark:text-gray-200 leading-8 text-gray-800">
-              I offer a wide of services including programming and teaching
+              I offer a wide of including programming and teaching
             </p>
           </div>
 
@@ -213,7 +213,7 @@ export default function Home() {
         <section>
           <div>
             <p className=" text-md py-5 leading-8  dark:text-gray-200 text-gray-800 md:text-xl grid place-items-center">
-              Copyright © 2022 - Ayush Shukla
+              Copyright © 2024 - Ayush Shukla
             </p>
           </div>
         </section>
